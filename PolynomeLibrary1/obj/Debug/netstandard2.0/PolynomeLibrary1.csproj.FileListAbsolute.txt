@@ -1,0 +1,17 @@
+C:\Users\Ololo\source\repos\ConsoleApp1\PolynomeLibrary1\bin\Debug\netstandard2.0\PolynomeLibrary1.deps.json
+C:\Users\Ololo\source\repos\ConsoleApp1\PolynomeLibrary1\bin\Debug\netstandard2.0\PolynomeLibrary1.dll
+C:\Users\Ololo\source\repos\ConsoleApp1\PolynomeLibrary1\bin\Debug\netstandard2.0\PolynomeLibrary1.pdb
+C:\Users\Ololo\source\repos\ConsoleApp1\PolynomeLibrary1\obj\Debug\netstandard2.0\PolynomeLibrary1.csprojAssemblyReference.cache
+C:\Users\Ololo\source\repos\ConsoleApp1\PolynomeLibrary1\obj\Debug\netstandard2.0\PolynomeLibrary1.csproj.CoreCompileInputs.cache
+C:\Users\Ololo\source\repos\ConsoleApp1\PolynomeLibrary1\obj\Debug\netstandard2.0\PolynomeLibrary1.AssemblyInfoInputs.cache
+C:\Users\Ololo\source\repos\ConsoleApp1\PolynomeLibrary1\obj\Debug\netstandard2.0\PolynomeLibrary1.AssemblyInfo.cs
+C:\Users\Ololo\source\repos\ConsoleApp1\PolynomeLibrary1\obj\Debug\netstandard2.0\PolynomeLibrary1.dll
+C:\Users\Ololo\source\repos\ConsoleApp1\PolynomeLibrary1\obj\Debug\netstandard2.0\PolynomeLibrary1.pdb
+C:\Users\nyker\source\repos\ConsoleApp1\PolynomeLibrary1\bin\Debug\netstandard2.0\PolynomeLibrary1.deps.json
+C:\Users\nyker\source\repos\ConsoleApp1\PolynomeLibrary1\bin\Debug\netstandard2.0\PolynomeLibrary1.dll
+C:\Users\nyker\source\repos\ConsoleApp1\PolynomeLibrary1\bin\Debug\netstandard2.0\PolynomeLibrary1.pdb
+C:\Users\nyker\source\repos\ConsoleApp1\PolynomeLibrary1\obj\Debug\netstandard2.0\PolynomeLibrary1.csprojAssemblyReference.cache
+C:\Users\nyker\source\repos\ConsoleApp1\PolynomeLibrary1\obj\Debug\netstandard2.0\PolynomeLibrary1.AssemblyInfoInputs.cache
+C:\Users\nyker\source\repos\ConsoleApp1\PolynomeLibrary1\obj\Debug\netstandard2.0\PolynomeLibrary1.AssemblyInfo.cs
+C:\Users\nyker\source\repos\ConsoleApp1\PolynomeLibrary1\obj\Debug\netstandard2.0\PolynomeLibrary1.dll
+C:\Users\nyker\source\repos\ConsoleApp1\PolynomeLibrary1\obj\Debug\netstandard2.0\PolynomeLibrary1.pdb

@@ -1,0 +1,12 @@
+C:\Users\Ololo\source\repos\ConsoleApp1\EntityFrameworkTask\bin\Debug\EntityFrameworkTask.exe.config
+C:\Users\Ololo\source\repos\ConsoleApp1\EntityFrameworkTask\bin\Debug\EntityFrameworkTask.exe
+C:\Users\Ololo\source\repos\ConsoleApp1\EntityFrameworkTask\bin\Debug\EntityFrameworkTask.pdb
+C:\Users\Ololo\source\repos\ConsoleApp1\EntityFrameworkTask\bin\Debug\EntityFramework.dll
+C:\Users\Ololo\source\repos\ConsoleApp1\EntityFrameworkTask\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Ololo\source\repos\ConsoleApp1\EntityFrameworkTask\bin\Debug\EntityFramework.xml
+C:\Users\Ololo\source\repos\ConsoleApp1\EntityFrameworkTask\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Ololo\source\repos\ConsoleApp1\EntityFrameworkTask\obj\Debug\EntityFrameworkTask.csprojAssemblyReference.cache
+C:\Users\Ololo\source\repos\ConsoleApp1\EntityFrameworkTask\obj\Debug\EntityFrameworkTask.csproj.CoreCompileInputs.cache
+C:\Users\Ololo\source\repos\ConsoleApp1\EntityFrameworkTask\obj\Debug\EntityFrameworkTask.csproj.CopyComplete
+C:\Users\Ololo\source\repos\ConsoleApp1\EntityFrameworkTask\obj\Debug\EntityFrameworkTask.exe
+C:\Users\Ololo\source\repos\ConsoleApp1\EntityFrameworkTask\obj\Debug\EntityFrameworkTask.pdb

@@ -1,0 +1,11 @@
+C:\Users\Ololo\source\repos\ConsoleApp1\ShiftedArrayLibrary\bin\Debug\ShiftedArrayLibrary.dll
+C:\Users\Ololo\source\repos\ConsoleApp1\ShiftedArrayLibrary\bin\Debug\ShiftedArrayLibrary.pdb
+C:\Users\Ololo\source\repos\ConsoleApp1\ShiftedArrayLibrary\obj\Debug\ShiftedArrayLibrary.csprojAssemblyReference.cache
+C:\Users\Ololo\source\repos\ConsoleApp1\ShiftedArrayLibrary\obj\Debug\ShiftedArrayLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Ololo\source\repos\ConsoleApp1\ShiftedArrayLibrary\obj\Debug\ShiftedArrayLibrary.dll
+C:\Users\Ololo\source\repos\ConsoleApp1\ShiftedArrayLibrary\obj\Debug\ShiftedArrayLibrary.pdb
+C:\Users\nyker\source\repos\ConsoleApp1\ShiftedArrayLibrary\bin\Debug\ShiftedArrayLibrary.dll
+C:\Users\nyker\source\repos\ConsoleApp1\ShiftedArrayLibrary\bin\Debug\ShiftedArrayLibrary.pdb
+C:\Users\nyker\source\repos\ConsoleApp1\ShiftedArrayLibrary\obj\Debug\ShiftedArrayLibrary.csprojAssemblyReference.cache
+C:\Users\nyker\source\repos\ConsoleApp1\ShiftedArrayLibrary\obj\Debug\ShiftedArrayLibrary.dll
+C:\Users\nyker\source\repos\ConsoleApp1\ShiftedArrayLibrary\obj\Debug\ShiftedArrayLibrary.pdb

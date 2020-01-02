@@ -1,0 +1,17 @@
+C:\Users\Ololo\source\repos\ConsoleApp1\ShiftedArrayLibrary.Tests\bin\Debug\netcoreapp2.0\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\Ololo\source\repos\ConsoleApp1\ShiftedArrayLibrary.Tests\bin\Debug\netcoreapp2.0\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\Ololo\source\repos\ConsoleApp1\ShiftedArrayLibrary.Tests\bin\Debug\netcoreapp2.0\xunit.runner.utility.netcoreapp10.dll
+C:\Users\Ololo\source\repos\ConsoleApp1\ShiftedArrayLibrary.Tests\bin\Debug\netcoreapp2.0\ShiftedArrayLibrary.Tests.deps.json
+C:\Users\Ololo\source\repos\ConsoleApp1\ShiftedArrayLibrary.Tests\bin\Debug\netcoreapp2.0\ShiftedArrayLibrary.Tests.runtimeconfig.json
+C:\Users\Ololo\source\repos\ConsoleApp1\ShiftedArrayLibrary.Tests\bin\Debug\netcoreapp2.0\ShiftedArrayLibrary.Tests.runtimeconfig.dev.json
+C:\Users\Ololo\source\repos\ConsoleApp1\ShiftedArrayLibrary.Tests\bin\Debug\netcoreapp2.0\ShiftedArrayLibrary.Tests.dll
+C:\Users\Ololo\source\repos\ConsoleApp1\ShiftedArrayLibrary.Tests\bin\Debug\netcoreapp2.0\ShiftedArrayLibrary.Tests.pdb
+C:\Users\Ololo\source\repos\ConsoleApp1\ShiftedArrayLibrary.Tests\bin\Debug\netcoreapp2.0\ShiftedArrayLibrary.dll
+C:\Users\Ololo\source\repos\ConsoleApp1\ShiftedArrayLibrary.Tests\bin\Debug\netcoreapp2.0\ShiftedArrayLibrary.pdb
+C:\Users\Ololo\source\repos\ConsoleApp1\ShiftedArrayLibrary.Tests\obj\Debug\netcoreapp2.0\ShiftedArrayLibrary.Tests.csprojAssemblyReference.cache
+C:\Users\Ololo\source\repos\ConsoleApp1\ShiftedArrayLibrary.Tests\obj\Debug\netcoreapp2.0\ShiftedArrayLibrary.Tests.csproj.CoreCompileInputs.cache
+C:\Users\Ololo\source\repos\ConsoleApp1\ShiftedArrayLibrary.Tests\obj\Debug\netcoreapp2.0\ShiftedArrayLibrary.Tests.AssemblyInfoInputs.cache
+C:\Users\Ololo\source\repos\ConsoleApp1\ShiftedArrayLibrary.Tests\obj\Debug\netcoreapp2.0\ShiftedArrayLibrary.Tests.AssemblyInfo.cs
+C:\Users\Ololo\source\repos\ConsoleApp1\ShiftedArrayLibrary.Tests\obj\Debug\netcoreapp2.0\ShiftedArrayLibrary.Tests.csproj.CopyComplete
+C:\Users\Ololo\source\repos\ConsoleApp1\ShiftedArrayLibrary.Tests\obj\Debug\netcoreapp2.0\ShiftedArrayLibrary.Tests.dll
+C:\Users\Ololo\source\repos\ConsoleApp1\ShiftedArrayLibrary.Tests\obj\Debug\netcoreapp2.0\ShiftedArrayLibrary.Tests.pdb

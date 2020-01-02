@@ -1,0 +1,17 @@
+C:\Users\Ololo\source\repos\ConsoleApp1\BinaryTreeLibrary.Tests\bin\Debug\netcoreapp2.0\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\Ololo\source\repos\ConsoleApp1\BinaryTreeLibrary.Tests\bin\Debug\netcoreapp2.0\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\Ololo\source\repos\ConsoleApp1\BinaryTreeLibrary.Tests\bin\Debug\netcoreapp2.0\xunit.runner.utility.netcoreapp10.dll
+C:\Users\Ololo\source\repos\ConsoleApp1\BinaryTreeLibrary.Tests\bin\Debug\netcoreapp2.0\BinaryTreeLibrary.Tests.deps.json
+C:\Users\Ololo\source\repos\ConsoleApp1\BinaryTreeLibrary.Tests\bin\Debug\netcoreapp2.0\BinaryTreeLibrary.Tests.runtimeconfig.json
+C:\Users\Ololo\source\repos\ConsoleApp1\BinaryTreeLibrary.Tests\bin\Debug\netcoreapp2.0\BinaryTreeLibrary.Tests.runtimeconfig.dev.json
+C:\Users\Ololo\source\repos\ConsoleApp1\BinaryTreeLibrary.Tests\bin\Debug\netcoreapp2.0\BinaryTreeLibrary.Tests.dll
+C:\Users\Ololo\source\repos\ConsoleApp1\BinaryTreeLibrary.Tests\bin\Debug\netcoreapp2.0\BinaryTreeLibrary.Tests.pdb
+C:\Users\Ololo\source\repos\ConsoleApp1\BinaryTreeLibrary.Tests\bin\Debug\netcoreapp2.0\BinaryTreeLibrary.dll
+C:\Users\Ololo\source\repos\ConsoleApp1\BinaryTreeLibrary.Tests\bin\Debug\netcoreapp2.0\BinaryTreeLibrary.pdb
+C:\Users\Ololo\source\repos\ConsoleApp1\BinaryTreeLibrary.Tests\obj\Debug\netcoreapp2.0\BinaryTreeLibrary.Tests.csprojAssemblyReference.cache
+C:\Users\Ololo\source\repos\ConsoleApp1\BinaryTreeLibrary.Tests\obj\Debug\netcoreapp2.0\BinaryTreeLibrary.Tests.csproj.CoreCompileInputs.cache
+C:\Users\Ololo\source\repos\ConsoleApp1\BinaryTreeLibrary.Tests\obj\Debug\netcoreapp2.0\BinaryTreeLibrary.Tests.AssemblyInfoInputs.cache
+C:\Users\Ololo\source\repos\ConsoleApp1\BinaryTreeLibrary.Tests\obj\Debug\netcoreapp2.0\BinaryTreeLibrary.Tests.AssemblyInfo.cs
+C:\Users\Ololo\source\repos\ConsoleApp1\BinaryTreeLibrary.Tests\obj\Debug\netcoreapp2.0\BinaryTreeLibrary.Tests.csproj.CopyComplete
+C:\Users\Ololo\source\repos\ConsoleApp1\BinaryTreeLibrary.Tests\obj\Debug\netcoreapp2.0\BinaryTreeLibrary.Tests.dll
+C:\Users\Ololo\source\repos\ConsoleApp1\BinaryTreeLibrary.Tests\obj\Debug\netcoreapp2.0\BinaryTreeLibrary.Tests.pdb

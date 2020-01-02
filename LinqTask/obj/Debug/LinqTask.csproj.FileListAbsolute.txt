@@ -1,0 +1,7 @@
+C:\Users\Ololo\source\repos\ConsoleApp1\LinqTask\bin\Debug\LinqTask.exe.config
+C:\Users\Ololo\source\repos\ConsoleApp1\LinqTask\bin\Debug\LinqTask.exe
+C:\Users\Ololo\source\repos\ConsoleApp1\LinqTask\bin\Debug\LinqTask.pdb
+C:\Users\Ololo\source\repos\ConsoleApp1\LinqTask\obj\Debug\LinqTask.csprojAssemblyReference.cache
+C:\Users\Ololo\source\repos\ConsoleApp1\LinqTask\obj\Debug\LinqTask.csproj.CoreCompileInputs.cache
+C:\Users\Ololo\source\repos\ConsoleApp1\LinqTask\obj\Debug\LinqTask.exe
+C:\Users\Ololo\source\repos\ConsoleApp1\LinqTask\obj\Debug\LinqTask.pdb

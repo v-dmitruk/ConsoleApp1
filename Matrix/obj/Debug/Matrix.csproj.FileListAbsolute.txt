@@ -1,0 +1,6 @@
+C:\Users\Ololo\source\repos\ConsoleApp1\Matrix\bin\Debug\Matrix.dll
+C:\Users\Ololo\source\repos\ConsoleApp1\Matrix\bin\Debug\Matrix.pdb
+C:\Users\Ololo\source\repos\ConsoleApp1\Matrix\obj\Debug\Matrix.csprojAssemblyReference.cache
+C:\Users\Ololo\source\repos\ConsoleApp1\Matrix\obj\Debug\Matrix.csproj.CoreCompileInputs.cache
+C:\Users\Ololo\source\repos\ConsoleApp1\Matrix\obj\Debug\Matrix.dll
+C:\Users\Ololo\source\repos\ConsoleApp1\Matrix\obj\Debug\Matrix.pdb

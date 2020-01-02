@@ -1,0 +1,11 @@
+C:\Users\Ololo\source\repos\ConsoleApp1\BinaryTreeLibrary\bin\Debug\BinaryTreeLibrary.dll
+C:\Users\Ololo\source\repos\ConsoleApp1\BinaryTreeLibrary\bin\Debug\BinaryTreeLibrary.pdb
+C:\Users\Ololo\source\repos\ConsoleApp1\BinaryTreeLibrary\obj\Debug\BinaryTreeLibrary.csprojAssemblyReference.cache
+C:\Users\Ololo\source\repos\ConsoleApp1\BinaryTreeLibrary\obj\Debug\BinaryTreeLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Ololo\source\repos\ConsoleApp1\BinaryTreeLibrary\obj\Debug\BinaryTreeLibrary.dll
+C:\Users\Ololo\source\repos\ConsoleApp1\BinaryTreeLibrary\obj\Debug\BinaryTreeLibrary.pdb
+C:\Users\nyker\source\repos\ConsoleApp1\BinaryTreeLibrary\bin\Debug\BinaryTreeLibrary.dll
+C:\Users\nyker\source\repos\ConsoleApp1\BinaryTreeLibrary\bin\Debug\BinaryTreeLibrary.pdb
+C:\Users\nyker\source\repos\ConsoleApp1\BinaryTreeLibrary\obj\Debug\BinaryTreeLibrary.csprojAssemblyReference.cache
+C:\Users\nyker\source\repos\ConsoleApp1\BinaryTreeLibrary\obj\Debug\BinaryTreeLibrary.dll
+C:\Users\nyker\source\repos\ConsoleApp1\BinaryTreeLibrary\obj\Debug\BinaryTreeLibrary.pdb
